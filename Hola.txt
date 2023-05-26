@@ -1,1 +1,1 @@
-Esto es una prueba para pasar el archivo al repositorio remoto
+Esto es una prueba para pasar este archivo al repositorio remoto.
